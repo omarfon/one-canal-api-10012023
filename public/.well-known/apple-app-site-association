@@ -1,0 +1,16 @@
+{
+	"applinks":{
+		"apps":[],
+		"details":[
+			{
+				"appID": "A4EWP7ZSFK.com.myapp.One-Canal",				
+				"paths":["/reset-password/*"]
+			},
+			{
+				"appID": "A4EWP7ZSFK.com.myapp.One-Canal",				
+				"paths":["/reset-password/*"]
+			}
+			
+		]
+	}
+}
